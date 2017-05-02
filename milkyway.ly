@@ -17,11 +17,11 @@
             \key g \major  
             \partial 4 
 
-            g'8 b8 | 
+            g'8( b8) | 
             d4. e8 d4 c |
             b a g g |
             c4. d8 e4 c |
-            d2 r4 g,8 b8 |
+            d2 r4 g,8( b8) |
             d4. e8 d4 c |
             b a g g |
             a a d, d |
@@ -29,7 +29,7 @@
             e'4. d8 e4 c4 |
             d b g g |
             e'4. fis8 g4 e4 |
-            fis2 r4 g,8 b8 |
+            fis2 r4 g,8( b8) |
             d4. e8 d4 c |
             b a g g |
             a4. a8 d4 fis,4 |
@@ -41,11 +41,11 @@
         \addlyrics {
             \partial 4
 
-            To __ _  |
+            To |
             ge -- ther we be -- |
             gin to sing to |
             ce -- le -- brate our |
-            mirth to __ _ |
+            mirth to |
             share this day with |
             eve -- ry thing that |
             is a live on |
@@ -53,7 +53,7 @@
             pla -- net is our |
             place of birth on |
             which was born this |
-            voice that __ _ |
+            voice that |
             we, the chil -- dren |
             of the Earth now |
             raise as we re -- |
