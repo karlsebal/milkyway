@@ -35,7 +35,7 @@
             a4. a8 d4 fis,4 |
             g2.
 
-            \bar "."
+            \bar "|."
         }
 
         \addlyrics {
