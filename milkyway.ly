@@ -238,7 +238,7 @@
         \line{ appears like from in side. }
         \line{ The dust of stars became the clay }
         \line{ that shaped us and this voice }
-        \line{ we cheldren of the Milky Way }
+        \line{ we children of the Milky Way }
         \line{ now raise as we rejoice. }
     }
     \column {
